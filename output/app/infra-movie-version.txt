@@ -1,0 +1,13 @@
+loggit logoutmvn -vjava -versiongit --version
+git version 2.47.1
+[ec2-user@ip-10-0-1-149 ~]$ git --versionlogoutmvn -vjava -version
+openjdk version "17.0.15" 2025-04-15 LTS
+OpenJDK Runtime Environment Corretto-17.0.15.6.1 (build 17.0.15+6-LTS)
+OpenJDK 64-Bit Server VM Corretto-17.0.15.6.1 (build 17.0.15+6-LTS, mixed mode, sharing)
+[ec2-user@ip-10-0-1-149 ~]$ java -versiongit --versionlogoutmvn -v
+Apache Maven 3.8.4 (Red Hat 3.8.4-3.amzn2023.0.5)
+Maven home: /usr/share/maven
+Java version: 17.0.15, vendor: Amazon.com Inc., runtime: /usr/lib/jvm/java-17-amazon-corretto.x86_64
+Default locale: en, platform encoding: UTF-8
+OS name: "linux", version: "6.1.140-154.222.amzn2023.x86_64", arch: "amd64", family: "unix"
+[ec2-user@ip-10-0-1-149 ~]$ [ec2-user@ip-10-0-1-149 ~]$ 
